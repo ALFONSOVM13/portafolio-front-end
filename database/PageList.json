@@ -1,0 +1,74 @@
+{
+  "works": {
+    "isActive": false,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Proyectos",
+    "description": "Aquí hay una selección curada que muestra mi experiencia y los resultados alcanzados.",
+    "image": "",
+    "link": "#works"
+  },
+  "skills": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Skills",
+    "description": "Descubre las cosas en las que soy bueno, desde desarrollo web hasta diseño y más.",
+    "image": "",
+    "link": "#skills"
+  },
+  "experience": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Experiencia Laboral",
+    "description": "Explora mi trayectoria profesional y los proyectos en los que he trabajado.",
+    "image": "",
+    "link": "#experience"
+  },
+  "resume": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "CV",
+    "description": "Mira mi historial laboral y mis logros en un currículum fácil de leer.",
+    "image": "",
+    "link": "#resume"
+  },
+  "contact": {
+    "isActive":  true,
+    "showOnNavigation":  true,
+    "showOnFooter":  false,
+    "title": "Contacto",
+    "description": "Ahora es tu turno de saludar. ¡Espero saber de ti!",
+    "image": "",
+    "link": "#footer"
+  },
+  "instagram": {
+    "isActive":  true,
+    "showOnNavigation":  false,
+    "showOnFooter":  true,
+    "title": "Instagram",
+    "description": "Buenos recuerdos, mejores momentos. Mi diario fotográfico.",
+    "image": "",
+    "link": "https://www.instagram.com/alfonsovengoechea13/"
+  },
+  "about": {
+    "isActive":  false,
+    "showOnNavigation": false,
+    "showOnFooter": false,
+    "title": "Sobre mí",
+    "description": "Diseño y desarrollo interfaces web modernas y accesibles.",
+    "image": "",
+    "link": "/about"
+  },
+  "blog": {
+    "isActive":  false,
+    "showOnNavigation":  false,
+    "showOnFooter":  false,
+    "title": "Blog",
+    "description": "Artículos enfocados en CSS, HTML, JavaScript y otros temas de desarrollo frontend.",
+    "image": "",
+    "link": "/blog"
+  }
+}

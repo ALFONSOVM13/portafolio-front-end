@@ -1,0 +1,72 @@
+[
+  {
+    "icon": "IconTS",
+    "image": "/icon/typescript.svg",
+    "title": "Typescript",
+    "subtitle": "Programación",
+    "description": "Utilizo Typescript para crear aplicaciones web robustas y mantenibles, asegurando un código claro y seguro."
+  },
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS",
+    "subtitle": "Next.js y Vercel",
+    "description": "Usando React, creo interfaces de usuario escalables con componentes, gestión de estado y manipulación del DOM virtual para aplicaciones web fluidas."
+  },
+  {
+    "icon": "IconCSS",
+    "image": "/icon/icon-css.svg",
+    "title": "CSS",
+    "subtitle": "Animaciones y Sass",
+    "description": "Priorizo la perfección de píxeles, prestando atención a los detalles para diseños visualmente pulidos y precisamente alineados, asegurando una experiencia de usuario perfecta."
+  },
+  {
+    "icon": "IconHTML",
+    "image": "/icon/icon-html.svg",
+    "title": "HTML",
+    "subtitle": "Marcado Semántico",
+    "description": "Más allá del marcado, HTML es crucial para una web inclusiva. Estructuro el contenido cuidadosamente para una accesibilidad universal."
+  },
+  {
+    "icon": "IconOptimization",
+    "image": "/icon/icon-optimization.svg",
+    "title": "Velocidad de Página",
+    "subtitle": "Optimización",
+    "description": "Me especializo en mejorar el rendimiento del sitio web, asegurando tiempos de carga rápidos y una utilización eficiente de recursos para una experiencia de usuario óptima."
+  },
+  {
+    "icon": "IconTailwind",
+    "image": "/icon/Tailwind CSS.svg",
+    "title": "Tailwind CSS",
+    "subtitle": "Interfaz de usuario",
+    "description": "Utilizo Tailwind CSS para crear interfaces de usuario modernas y responsivas, con un enfoque en la velocidad y la facilidad de uso."
+  },
+  {
+    "icon": "IconFigma",
+    "image": "/icon/icon-figma.svg",
+    "title": "Diseño",
+    "subtitle": "Figma y Photoshop",
+    "description": "Aunque no soy diseñador UI a tiempo completo, tengo buen ojo para la estética, creando interfaces visualmente atractivas y fáciles de usar."
+  },
+  {
+    "icon": "IconWebpack",
+    "image": "/icon/icon-webpack.svg",
+    "title": "Entorno de Desarrollo",
+    "subtitle": "Webpack",
+    "description": "Utilizo herramientas como Webpack, Vite, Parcel o Gulp para optimizar flujos de trabajo, automatizando el desarrollo para mayor eficiencia."
+  },
+  {
+    "icon": "IconAPI",
+    "image": "/icon/icon-api.svg",
+    "title": "APIs REST",
+    "subtitle": "Axios y Fetch",
+    "description": "Integro datos y funcionalidades de manera fluida con APIs REST, creando aplicaciones web dinámicas para un rendimiento mejorado."
+  },
+  {
+    "icon": "IconGSAP",
+    "image": "/icon/icon-gsap.svg",
+    "title": "GSAP",
+    "subtitle": "Animaciones de Scroll",
+    "description": "Utilizo GSAP para crear animaciones cautivadoras que dan vida a las páginas web, mejorando la experiencia general del usuario."
+  }
+]

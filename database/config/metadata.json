@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "name": "Alfonso",
+    "title": "Alfonso Vengoechea - Front-End Developer",
+    "description": "Desarrollo sitios web accesibles, responsivos, interactivos y animados con un fuerte enfoque en el rendimiento.",
+    "timeZone": "America/Bogota",
+    "locale": "es-CO"
+  },  
+  "personal": {
+    "name": "Alfonso",
+    "surname": "Vengoechea",
+    "role": "Front-End Developer",
+    "experience": 1,
+    "email": "alfonsovengoechea@gmail.com",
+    "phone": "+573237991725",
+    "city": "Barranquilla",
+    "state": "Atlantico",
+    "country": "Colombia",
+    "username": "@alfonsovengoechea",
+    "resumeURL": "https://drive.google.com/file/d/1_MDzxe-V3FCJ1KOD1MBx8rekkSeV2xNv/view"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/alfonsovengoechea13/",
+    "linkedin": "https://www.linkedin.com/in/alfonsovengoechea/",
+    "github": "https://github.com/ALFONSOVM13"
+  },
+  "content": {
+    "verse": "Carpe diem, quam minimum credula postero [Horacio, Odas 1.11]"
+  }
+}

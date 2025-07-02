@@ -1,0 +1,40 @@
+[
+  {
+    "url": "/gallery/galerazamba.jpg",
+    "date": "Julio 2022",
+    "location": "Playa de Galerazamba, Colombia",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/alfonso.jpg",
+    "date": "Diciembre 2023",
+    "location": "Universidad del Atlantico, Colombia",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/setup.jpg",
+    "date": "Diciembre 2023",
+    "location": "Algun lugar del mundo",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/puerta_alcala.JPG",
+    "date": "Julio 2018",
+    "location": "Puerta de Alcalá, Madrid",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/zapayan.jpg",
+    "date": "Julio 2018",
+    "location": "Zapaya, Magdalena",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/santiago_bernabeu.jpg",
+    "date": "Julio 2018",
+    "location": "Santiago Bernabéu, Madrid",
+    "direction": "vertical"
+  }
+  
+
+]

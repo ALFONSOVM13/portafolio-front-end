@@ -1,0 +1,61 @@
+[
+  {
+    "position": "FRONTEND TECH LEAD",
+    "company": "Naowee",
+    "duration": "Marzo 2025 - Presente",
+    "location": "Presencial",
+    "image": "/company/naowee.svg",
+    "url": "https://www.naowee.com/",
+    "responsibilities": [
+      "Liderazgo del equipo de desarrollo frontend y de los pasantes, garantizando la calidad y eficiencia en cada proyecto.",
+      "Revisión exhaustiva de código para asegurar la implementación de las mejores prácticas y estándares de desarrollo.",
+      "Colaboración interdisciplinaria con diseñadores, backend developers y stakeholders para asegurar el cumplimiento de objetivos técnicos y de negocio.",
+      "Evaluación técnica, mentoría y capacitación continua de practicantes y desarrolladores junior, fomentando su crecimiento profesional e integración al equipo.",
+      "Optimización del rendimiento de la plataforma, permitiendo el procesamiento y soporte de más de 100,000 registros diarios en la plataforma de Juegos Intercolegiados."
+    ],
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "Desarrollador Front-End",
+    "company": "Naowee",
+    "duration": "Septiembre 2024 - Marzo 2025",
+    "location": "Presencial",
+    "image": "/company/naowee.svg",
+    "url": "https://www.naowee.com/",
+    "responsibilities": [
+      "Desarrollo de aplicaciones web modernas con Next.js, priorizando rendimiento, escalabilidad y unaexperiencia de usuario fluida.",
+      "Diseño e implementación de interfaces atractivas, responsivas e intuitivas, aplicando principios de UX/UI y buenas prácticas de desarrollo.",
+      "Colaboración con diseñadores, backend developers y stakeholders para asegurar el cumplimiento de objetivos técnicos y de negocio.",
+      "Participación activa en la planificación, ejecución de pruebas y despliegue continuo de nuevas funcionalidades y mejoras.",
+      "Implementación de pruebas unitarias y de integración para garantizar la calidad del código y la estabilidad de las aplicaciones."
+    ],
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  },
+  {
+    "position": "Practicas Profesionales",
+    "company": "Naowee",
+    "duration": "Abril 2024- Septiembre 2024",
+    "location": "Presencial",
+    "image": "/company/naowee.svg",
+    "url": "https://www.naowee.com/",
+    "responsibilities": [
+      "Desarrollo y mantenimiento de componentes reutilizables para aplicaciones web y móviles utilizando React Native, asegurando una experiencia de usuario fluida.",
+      "Implementación de diseños de Figma a código funcional, garantizando la fidelidad visual con las especificaciones del diseño.",
+      "Desarrollo de la landing page de la empresa, asegurando una experiencia de usuario optimizada y atractiva para los visitantes.",
+      "Pruebas y depuración: Identificación y corrección de errores, y realización de pruebas exhaustivas para asegurar la calidad del producto."
+    ],
+    "color": {
+      "h": "240",
+      "s": "100%",
+      "l": "45%"
+    }
+  }
+]
