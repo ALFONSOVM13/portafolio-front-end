@@ -130,7 +130,7 @@ export default function SkillSet() {
                     <div className={`${styles.sphere} ${dragStatus === 'pressed' ? styles.isActive : ''}`}></div>
                 </div>
             </section>
-            <Ticker words={['accessibility', 'responsiveness', 'interactive', 'performance']}></Ticker>
+            <Ticker words={['accesibilidad', 'responsividad', 'interactividad', 'rendimiento']}></Ticker>
         </>
     )
 }

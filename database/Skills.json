@@ -49,11 +49,11 @@
     "description": "Aunque no soy diseñador UI a tiempo completo, tengo buen ojo para la estética, creando interfaces visualmente atractivas y fáciles de usar."
   },
   {
-    "icon": "IconWebpack",
-    "image": "/icon/icon-webpack.svg",
-    "title": "Entorno de Desarrollo",
-    "subtitle": "Webpack",
-    "description": "Utilizo herramientas como Webpack, Vite, Parcel o Gulp para optimizar flujos de trabajo, automatizando el desarrollo para mayor eficiencia."
+    "icon": "IconJest",
+    "image": "/icon/jest.svg",
+    "title": "Pruebas Unitarias",
+    "subtitle": "Jest",
+    "description": "Utilizo Jest para crear pruebas unitarias que me ayudan a asegurar que mi código funcione correctamente y a detectar errores antes de que lleguen a producción."
   },
   {
     "icon": "IconAPI",
