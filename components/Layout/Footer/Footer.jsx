@@ -89,7 +89,6 @@ export default function Footer() {
                         •&nbsp;
                         <WeatherAPI></WeatherAPI>
                     </div>
-                    <div className={styles.verse}>{commonConfig.content.verse}</div>
                 </div>
             </div>
             <figure className={styles.skeleton} ref={skeleton}>
